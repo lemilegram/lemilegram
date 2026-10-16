@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Maia 👋
 
-<!--
-**lemilegram/lemilegram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer and educator based in Montevideo, Uruguay.
 
-Here are some ideas to get you started:
+I've maintained and extended production websites, APIs and
+backoffice systems, built integrations, and automated workflows
+across admissions and onboarding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also teach frontend and backend development, helping students
+turn ideas into working applications.
+
+### Main stack
+TypeScript · JavaScript · React · Next.js · Node.js · Strapi
+
+### Selected work
+- Instantes Invitaciones: editable digital invitations with RSVP.
+- Manos Creativas: am e-commerce project for independent artists.
+- Dragon Dice: a personal project connected to my love of tabletop games.
+
+[Portfolio](https://maiachamorro.com/) ·
+[LinkedIn](https://www.linkedin.com/in/maia-chamorro/)
